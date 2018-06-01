@@ -8,7 +8,7 @@ Build-Depends:
  libdigidocpp-dev (>=3.0),
  libldap2-dev,
  libpcsclite-dev,
- libssl-dev,
+ libssl-dev|libssl1.0-dev,
  qttools5-dev
 Standards-Version: 3.9.8
 Homepage: https://github.com/open-eid/qdigidoc
